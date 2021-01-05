@@ -3,6 +3,12 @@ public class Main {
 
 
 
+
+    }
+
+    public static void printDayOfTheWeek(int day){
+
+
     }
 
 }
